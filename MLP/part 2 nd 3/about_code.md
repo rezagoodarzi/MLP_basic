@@ -28,7 +28,7 @@ plt.ylabel('Mean Squared Error')
 plt.show()
 ```
 
-![MSE vs. Number of Hidden Neurons](C:\Users\reza\Documents\GitHub\MLP\output_balance.png)
+![MSE vs. Number of Hidden Neurons](/output_balance.png)
 # Analysis
 
 - The plot visualizes the relationship between the number of hidden neurons and the resulting MSE. The x-axis represents the number of hidden neurons, and the y-axis represents the MSE.
