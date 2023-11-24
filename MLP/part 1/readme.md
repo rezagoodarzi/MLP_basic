@@ -1,4 +1,4 @@
-# MLPMLP Classifier
+# MLP Classifier
 
 This Python script demonstrates the use of a neural network classifier for predicting satisfaction based on input features. The code uses the scikit-learn library for building and training the neural network.
 
